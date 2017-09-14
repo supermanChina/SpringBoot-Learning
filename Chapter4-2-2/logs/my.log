@@ -1,0 +1,7 @@
+2017-09-14 10:46:57,309  INFO ApplicationTests:48 ---- Starting ApplicationTests on pl1cnctu0040nb with PID 10312 (D:\github\SpringBoot-Learning\Chapter4-2-2\target\test-classes started by h7gsbw in D:\github\SpringBoot-Learning\Chapter4-2-2)
+2017-09-14 10:46:57,309 DEBUG ApplicationTests:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2017-09-14 10:46:57,311  INFO ApplicationTests:666 ---- No active profile set, falling back to default profiles: default
+2017-09-14 10:46:57,755  INFO ApplicationTests:57 ---- Started ApplicationTests in 0.728 seconds (JVM running for 1.201)
+2017-09-14 10:46:57,761  INFO ApplicationTests:18 ---- ??info
+2017-09-14 10:46:57,761 DEBUG ApplicationTests:19 ---- ??debug
+2017-09-14 10:46:57,762 ERROR ApplicationTests:20 ---- ??error
