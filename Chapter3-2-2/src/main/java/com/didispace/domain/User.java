@@ -11,7 +11,7 @@ import javax.persistence.Id;
  * @date 16/3/21 下午3:35.
  * @blog http://blog.didispace.com
  */
-@Entity(name = "userTable")
+@Entity(name = "userTest")
 public class User {
 
     @Id
